@@ -72,7 +72,7 @@ Este proyecto tiene como fin **apoyar decisiones académicas**, no penalizar est
 - Se debe garantizar la **protección de datos personales**
 - El modelo busca promover **equidad e inclusión educativa**
 
-[![portfolio](https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png)](https://azure.microsoft.com/es-es/resources/cloud-computing-dictionary/what-is-data-science)
-
-
-[![portfolio](https://herramientas.datos.gov.co/sites/default/files/2024-11/imagen.jpeg)](https://herramientas.datos.gov.co/usos/modelo-de-prediccion-de-decersion-estudiantil)
+## Proyecto similar
+<a href="https://herramientas.datos.gov.co/usos/modelo-de-prediccion-de-decersion-estudiantil">
+  <img src="imagen04.jpeg" alt="portfolio" width="100">
+</a>
