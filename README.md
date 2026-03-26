@@ -76,3 +76,12 @@ Este proyecto tiene como fin **apoyar decisiones académicas**, no penalizar est
 <a href="https://herramientas.datos.gov.co/usos/modelo-de-prediccion-de-decersion-estudiantil">
   <img src="imagen04.jpeg" alt="portfolio" width="100">
 </a>
+
+
+
+
+<marquee behavior="scroll" direction="left">
+  <h4>Machine Learning aplicado a un problema social real</h4>
+</marquee>
+
+
