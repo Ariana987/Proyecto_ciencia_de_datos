@@ -30,12 +30,12 @@ Construir un modelo de *Machine Learning* que estime la probabilidad de deserci�
 
 ## Variables Utilizadas
 
-Asistencia a clases
-Notas academicas
-Nivel socioeconómico
-Edad
-Carrera universitaria
-Uso de plataformas virtuales
+- Asistencia a clases
+- Notas academicas
+- Nivel socioeconómico
+- Edad
+- Carrera universitaria
+- Uso de plataformas virtuales
 
 ##  Metodología del Proyecto
 El desarrollo del proyecto sigue un enfoque estándar de **Ciencia de Datos**:
