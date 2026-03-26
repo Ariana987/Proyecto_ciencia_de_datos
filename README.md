@@ -78,10 +78,3 @@ Este proyecto tiene como fin **apoyar decisiones académicas**, no penalizar est
 </a>
 
 
-
-
-<marquee behavior="scroll" direction="left">
-  <h4>Machine Learning aplicado a un problema social real</h4>
-</marquee>
-
-
