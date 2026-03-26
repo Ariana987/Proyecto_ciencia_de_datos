@@ -26,17 +26,48 @@ Este proyecto tiene como objetivo **predecir qué estudiantes presentan mayor ri
 Construir un modelo de *Machine Learning* que estime la probabilidad de deserción estudiantil utilizando variables académicas, socioeconómicas y de comportamiento.
 
 <br>
-<br>
+
 
 ## Variables Utilizadas
 
-- 📘 Notas académicas
-- ✅ Asistencia a clases
-- 💰 Nivel socioeconómico
-- 🎂 Edad
-- 🎓 Carrera universitaria
-- 💻 Uso de plataformas virtuales
+Asistencia a clases
+Notas academicas
+Nivel socioeconómico
+Edad
+Carrera universitaria
+Uso de plataformas virtuales
+
+##  Metodología del Proyecto
+El desarrollo del proyecto sigue un enfoque estándar de **Ciencia de Datos**:
+<p align="center">
+  <img src="imagen03.png" alt="Logo de ImageNet" width="1000"/>
+</p>
 
 
+## Modelos de Machine Learning Utilizados
+
+Se entrenaron y compararon los siguientes modelos:
+
+- **Regresión Logística** (modelo baseline)
+- **Random Forest**
+- **XGBoost**
+> [!NOTE]
+> Los modelos fueron evaluados priorizando **Recall**, dado que es más importante detectar estudiantes en riesgo que minimizar falsos positivos.
 
 
+##  Resultados del Modelo
+
+| Modelo              | Accuracy | Recall | F1-score |
+|---------------------|----------|--------|----------|
+| Regresión Logística | 0.72     | 0.68   | 0.70     |
+| Random Forest       | 0.81     | 0.79   | 0.80     |
+| XGBoost             | **0.84** | **0.83** | **0.83** |
+
+
+## Impacto Social y Consideraciones Éticas
+
+Este proyecto tiene como fin **apoyar decisiones académicas**, no penalizar estudiantes.
+
+- Los resultados deben usarse como **herramienta de apoyo**, no como veredicto final
+- Se debe garantizar la **protección de datos personales**
+- El modelo busca promover **equidad e inclusión educativa**
