@@ -72,7 +72,34 @@ Este proyecto tiene como fin **apoyar decisiones académicas**, no penalizar est
 - Se debe garantizar la **protección de datos personales**
 - El modelo busca promover **equidad e inclusión educativa**
 
-## Proyecto similar
+## Posibles Soluciones
+
+A partir del análisis de datos y las predicciones generadas por el modelo de machine learning, se pueden implementar diferentes estrategias enfocadas en reducir la deserción estudiantil.
+
+### Apoyo Académico Personalizado
+Implementar tutorías dirigidas a estudiantes con bajo rendimiento académico.
+
+
+- Refuerzo en materias críticas  
+- Seguimiento continuo del progreso  
+- Planes de estudio personalizados  
+
+### Acompañamiento Psicológico
+Brindar apoyo emocional a estudiantes con señales de estrés, ansiedad o desmotivación.
+
+
+- Sesiones con psicólogos  
+- Programas de bienestar universitario  
+- Prevención de burnout académico  
+
+### Apoyo Económico
+Identificar estudiantes con dificultades financieras y ofrecer soluciones.
+
+- Becas o subsidios  
+- Facilidades de pago  
+- Oportunidades laborales dentro de la universidad  
+
+## Proyecto de apoyo
 <a href="https://herramientas.datos.gov.co/usos/modelo-de-prediccion-de-decersion-estudiantil">
   <img src="imagen04.jpeg" alt="portfolio" width="100">
 </a>
