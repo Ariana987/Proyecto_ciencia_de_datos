@@ -79,21 +79,26 @@ A partir del análisis de datos y las predicciones generadas por el modelo de ma
 ### Apoyo Académico Personalizado
 Implementar tutorías dirigidas a estudiantes con bajo rendimiento académico.
 
+<img src="https://ss.marin.edu/sites/default/files/TLC_1.jpg" align="left" width="200"/>
 
-- Refuerzo en materias críticas  
-- Seguimiento continuo del progreso  
-- Planes de estudio personalizados  
+  - Refuerzo en materias críticas  
+  - Seguimiento continuo del progreso  
+  - Planes de estudio personalizados  
 
 ### Acompañamiento Psicológico
 Brindar apoyo emocional a estudiantes con señales de estrés, ansiedad o desmotivación.
 
+<img src="https://supereval.com/wp-content/uploads/2023/01/AdobeStock_468160994-scaled.jpeg" align="left" width="130"/>
 
 - Sesiones con psicólogos  
 - Programas de bienestar universitario  
 - Prevención de burnout académico  
 
+
 ### Apoyo Económico
 Identificar estudiantes con dificultades financieras y ofrecer soluciones.
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcqQQoEdAaFWgDoOcT81hk_zV933fLrqBdMg&s" align="left" width="80" />
 
 - Becas o subsidios  
 - Facilidades de pago  
