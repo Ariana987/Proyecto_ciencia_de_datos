@@ -19,7 +19,7 @@
 <img src="imagen01.png" align="right" width="380" />
 
 La **deserción estudiantil universitaria** es uno de los principales desafíos en América Latina, especialmente en ciudades como **Bogotá**.  
-Este proyecto tiene como objetivo **predecir qué estudiantes presentan mayor riesgo de abandonar sus estudios**, permitiendo a las universidades **intervenir de forma temprana**.
+Este proyecto busca **predecir qué estudiantes presentan mayor riesgo de abandonar sus estudios**, permitiendo a las universidades **intervenir de forma temprana**.
 
 
  **Objetivo:**  
