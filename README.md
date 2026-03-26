@@ -109,4 +109,12 @@ Identificar estudiantes con dificultades financieras y ofrecer soluciones.
   <img src="imagen04.jpeg" alt="portfolio" width="100">
 </a>
 
+<img src="hacer-clic.gif" align="left" width="40" />
+
+#### Click image
+
+
+
+
+
 
